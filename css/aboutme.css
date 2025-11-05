@@ -1,7 +1,7 @@
 body{
     margin: 0;
     background-color: rgb(1, 1, 16);
-    background-image: url(/img/sn5.webp); 
+    background-image: url(../MTProject/img/sn5.webp); 
     background-size: 100% auto;
     background-attachment: scroll;
     background-repeat: no-repeat;
